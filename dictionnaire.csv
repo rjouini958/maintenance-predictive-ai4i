@@ -1,0 +1,15 @@
+variable,type,unité,sens,usage
+udi,entier,sans unité,identifiant de ligne,exclu
+product_id,texte,sans unité,identifiant produit,exclu
+type,catégorie,L/M/H,qualité produit,entrée
+air_temp,réel,K,température air,entrée
+process_temp,réel,K,température procédé,entrée
+rot_speed,entier,tr/min,vitesse de rotation,entrée
+torque,réel,N·m,couple mécanique,entrée
+tool_wear,entier,min,usure accumulée outil,entrée
+machine_failure,binaire,0/1,panne de cette observation,cible
+TWF,binaire,0/1,mode de panne constaté,fuite : exclu
+HDF,binaire,0/1,mode de panne constaté,fuite : exclu
+PWF,binaire,0/1,mode de panne constaté,fuite : exclu
+OSF,binaire,0/1,mode de panne constaté,fuite : exclu
+RNF,binaire,0/1,mode de panne constaté,fuite : exclu

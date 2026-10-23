@@ -1,0 +1,20 @@
+{
+  "model": "Random Forest",
+  "threshold": 0.17,
+  "params": {},
+  "oof_metrics": {
+    "tn": 7641,
+    "fp": 88,
+    "fn": 36,
+    "tp": 235,
+    "recall": 0.8671586715867159,
+    "precision": 0.7275541795665634,
+    "f1": 0.7912457912457912,
+    "ap": 0.8952924048283806,
+    "accuracy": 0.9845,
+    "cost": 238700.0
+  },
+  "constraints_oof_met": true,
+  "seed": 42,
+  "test_fraction": 0.2
+}

@@ -1,0 +1,1 @@
+Sur le test, Random Forest (seuil 0.17) détecte 59/68 pannes (rappel 86.8%), avec 24 fausses alertes (précision 71.1%, AP 0.886). Le scénario central donne un gain brut de 358,692 €/an, un gain net année 1 de 303,692 € et un ROI de 552.2 %. Ces résultats justifient au plus un pilote instrumenté de 3 mois, pas un déploiement garanti.

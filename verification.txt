@@ -1,0 +1,1 @@
+PASS — partitions, hors-pli, exclusion des fuites, choix du seuil, métriques test, conversion W, calculs ROI, validation nbformat et absence de cellules en erreur.

@@ -1,0 +1,20 @@
+[
+  {
+    "notebook": "01_cadrage_eda.ipynb",
+    "status": "PASS",
+    "seconds": 45.37,
+    "method": "Fresh Python process + IPython; all code cells executed in order"
+  },
+  {
+    "notebook": "02_modelisation.ipynb",
+    "status": "PASS",
+    "seconds": 168.12,
+    "method": "Fresh Python process + IPython; all code cells executed in order"
+  },
+  {
+    "notebook": "03_decision_roi.ipynb",
+    "status": "PASS",
+    "seconds": 14.55,
+    "method": "Fresh Python process + IPython; all code cells executed in order"
+  }
+]
